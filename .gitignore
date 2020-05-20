@@ -1,0 +1,8 @@
+chromedriver.exe
+log.html
+report.html
+output.xml
+chrome/*
+*.png
+Python36-32/
+python36
